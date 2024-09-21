@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 4 Months of Expierience with FiveM Vehicle & Server Developement<br><br>📚 Actively continuing my learning in VSC coding for FiveM development
+🏫 4 Months of Expierience with FiveM Vehicle & Server Developement<br><br>📚 Actively continuing my learning in VSC/HTML coding for FiveM development
 
 
 # 💻 Tech Stack:
