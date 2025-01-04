@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 7 Months of Expierience with FiveM Vehicle & Server Developement<br><br>📚 Actively continuing my learning in LUA/HTML coding for FiveM development
+🏫 FiveM Vehicle & Server Developement<br><br>📚 Actively continuing my learning in LUA/HTML coding for FiveM development
 
 
 # 💻 Tech Stack:
